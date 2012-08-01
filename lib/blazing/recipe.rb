@@ -44,3 +44,4 @@ class Blazing::Recipe
 
   end
 end
+
