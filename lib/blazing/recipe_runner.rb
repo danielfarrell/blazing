@@ -1,5 +1,5 @@
 module Blazing
-  class ExecutionPoints
+  class RecipeRunner
 
   end
 end
